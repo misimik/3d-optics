@@ -1,6 +1,8 @@
 // Designer: Michał Mikołajczyk michal@mikolajczyk.link
 // Last edit: 2024.01.16
 
+// IMPORTANT: Use fast-csg. I use OpenSCAD version 2024.01.03
+
 // A plate for fragile fibers.
 // The design consists of a base and a cover.
 // The base has a channel for a fragile fiber (ie. fiber Bragg grating)

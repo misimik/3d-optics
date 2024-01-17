@@ -1,0 +1,8 @@
+This is a plate designed to protect fragile pieces of optical fibers, ie. fiber Bragg gratings.
+The fiber should be placed between two wall and secured with sponge or gasket compressed with the cover.
+If the fiber has spliced-in fiber pigtail, the pigtail should be sacured with sticky tape through the slots
+in the base.
+
+The plate can have mesh to lower the weight and use of plastic. The holes can be circular or hexagonal.
+The cover can be secured to the base with screws. The number of screws can be customized.
+The screws can go into either inserts or hex nuts.
