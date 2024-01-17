@@ -67,8 +67,6 @@ echo(screw_post_d);
 base = true;
 // Render cover
 cover = false;
-// Put logo on the cover?
-logo = true;
 // Put holes to save on plastic?
 make_holes = false;
 // Circular or hex holes
@@ -80,6 +78,9 @@ insert = true;
 
 /* [Hidden] */
 
+// Put logo on the cover?
+logo = true;
+// Small value to beautify rendering
 eps = 0.01;
 
 l = 3.14159*(internal_diameter+2*(storing_ring_width+wall_thickness))*tape_slot_fraction;
