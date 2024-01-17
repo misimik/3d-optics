@@ -1,0 +1,52 @@
+{
+    "fileFormatVersion": "1",
+    "parameterSets": {
+        "New set 1": {
+            "$fn": "100",
+            "arc": "true",
+            "eps": "0.01",
+            "inner_r": "90",
+            "just_labels": "false",
+            "major_tick_h": "0.45000000000000001",
+            "margin": "1.5",
+            "mid_tick_h": "0.29999999999999999",
+            "minor_tick_h": "0.20000000000000001",
+            "outer_r": "110",
+            "thickness": "2",
+            "tick_depth": "0.5",
+            "tick_w": "0.75"
+        },
+        "New set 2": {
+            "$fn": "100",
+            "arc": "true",
+            "eps": "0.01",
+            "inner_r": "90",
+            "just_labels": "false",
+            "major_tick_h": "0.45000000000000001",
+            "margin": "1.5",
+            "mid_tick_h": "0.29999999999999999",
+            "minor_tick_h": "0.20000000000000001",
+            "outer_r": "110",
+            "thickness": "2",
+            "tick_depth": "0.5",
+            "tick_w": "0.75"
+        },
+        "New set 3": {
+            "$fn": "100",
+            "arc": "true",
+            "base": "false",
+            "brace": "false",
+            "eps": "0.01",
+            "inner_r": "90",
+            "just_labels": "true",
+            "major_tick_h": "0.5",
+            "margin": "1.5",
+            "mid_tick_h": "0.40000000000000002",
+            "minor_tick_h": "0.29999999999999999",
+            "outer_r": "110",
+            "thickness": "2",
+            "tick_depth": "0.20000000000000001",
+            "tick_w": "0.75"
+        }
+    }
+}
