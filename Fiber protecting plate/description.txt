@@ -6,3 +6,6 @@ in the base.
 The plate can have mesh to lower the weight and use of plastic. The holes can be circular or hexagonal.
 The cover can be secured to the base with screws. The number of screws can be customized.
 The screws can go into either inserts or hex nuts.
+
+STL available on Printables [ I need the points ;-) ]
+Please give me a star on Github: https://github.com/misimik/3d-optics/tree/main/Fiber%20protecting%20plate
