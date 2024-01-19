@@ -52,8 +52,8 @@ head_d = 7.2;
 // M4 nut diameter
 m4_2h = 6.9;
 nut_d = m4_2h * 2/sqrt(3);
-// M4 nut hight
-nut_h = 3.4;
+// M4 nut hight - increased so the nuts would sit deeper
+nut_h = 5.4;
 // Threaded insert hole diameter.
 insert_d = 5.5;
 // Threaded insert hight
