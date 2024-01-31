@@ -58,6 +58,35 @@
             "tape_slot_minlength": "15",
             "tape_slot_width": "2",
             "wall_thickness": "1.5"
+        },
+        "New set 3": {
+            "$fn": "30",
+            "base": "false",
+            "base_thickness": "1.5",
+            "commpression_h": "4",
+            "cover": "true",
+            "cylinders_resolution": "500",
+            "fiber_slot_width": "5",
+            "head_d": "7.2000000000000002",
+            "hex_holes": "true",
+            "insert": "true",
+            "insert_d": "5.5",
+            "insert_h": "5",
+            "insertion_margin": "0.050000000000000003",
+            "internal_diameter": "145",
+            "joinging_with_screws": "true",
+            "m4_2h": "6.9000000000000004",
+            "make_holes": "true",
+            "nut_h": "5.4000000000000004",
+            "pigtail_brim_width": "10",
+            "plate_hight": "10",
+            "screw_d": "4.5",
+            "screw_number": "3",
+            "storing_ring_width": "5",
+            "tape_slot_fraction": "0.20000000000000001",
+            "tape_slot_minlength": "15",
+            "tape_slot_width": "2",
+            "wall_thickness": "1.5"
         }
     }
 }

@@ -1,0 +1,32 @@
+{
+    "fileFormatVersion": "1",
+    "parameterSets": {
+        "New set 1": {
+            "base": "false",
+            "base_modifier": "false",
+            "cover": "true",
+            "cover_modifier": "false",
+            "hole_l_offset_1": "18.5",
+            "hole_l_offset_2": "3",
+            "hole_spacing_l": "97",
+            "hole_spacing_w": "40",
+            "hole_w_offset": "3",
+            "margin": "0.5",
+            "pcb_base_standoff_h": "6",
+            "pcb_l": "118",
+            "pcb_sandwich_t": "15.199999999999999",
+            "pcb_t": "2.1000000000000001",
+            "pcb_top_standoff_h": "10",
+            "pcb_w": "46",
+            "standoff_d": "7",
+            "text_fill": "false",
+            "usb_power_h": "13.5",
+            "usb_power_offset": "7",
+            "usb_power_w": "30",
+            "vga_h": "13",
+            "vga_offset": "7.5",
+            "vga_w": "31",
+            "wall_t": "2"
+        }
+    }
+}
