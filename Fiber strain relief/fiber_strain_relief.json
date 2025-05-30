@@ -1,0 +1,19 @@
+{
+    "fileFormatVersion": "1",
+    "parameterSets": {
+        "New set 1": {
+            "base_t": "5",
+            "column_bend_t": "1.5",
+            "column_margin_above_fiber": "10",
+            "column_t": "15",
+            "column_w": "10",
+            "compression_percentage": "0.40000000000000002",
+            "fiber_d": "1.8",
+            "fiber_h": "145",
+            "fiber_hold_percent": "0.5",
+            "screw_d": "6.5",
+            "screw_grid": "25",
+            "washer_d": "12"
+        }
+    }
+}
